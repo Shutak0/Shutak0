@@ -1,63 +1,63 @@
 # Hi there! I'm Viktor Lobashev 👋 
 
-I am a Software Developer and Automation Enthusiast based in Prague/Kladno, Czech Republic [4, 5]. Currently studying Electrical Engineering [5] and actively working on bridging the gap between classic backend systems, media processing, and AI integrations [2, 4].
+I am a Software Developer and Automation Enthusiast based in Prague/Kladno, Czech Republic [2]. Currently studying Electrical Engineering [1] and actively working on bridging the gap between classic backend systems, media processing, and AI integrations [2].
 
-**🚀 I am looking for a junior developer role, internship, or part-time contract (DPP/DPČ/IČO) in backend development, media automation, or AI engineering [4, 6].**
+**🚀 I am looking for a junior developer role, internship, or part-time contract (DPP/DPČ/IČO) in backend development, media automation, or AI engineering [2, 3].**
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-* **Languages:** Python, JavaScript, HTML/CSS, C++, SQL [2]
-* **Frameworks & Libraries:** Django, Node.js, TensorFlow, NumPy [2]
-* **Core Competencies:** Media & Video Processing (FFmpeg/MoviePy), Automation Scripts, Telegram Bot Development, AI API Integration, Web Scraping [1, 2]
-* **Tools & OS:** Git, GitHub, Linux, REST APIs [2]
-* **Languages spoken:** Czech (B2 - business/professional), English (B2 - technical), Ukrainian & Russian (Native) [6]
+* **Languages:** Python, JavaScript, HTML/CSS, C++, SQL [4]
+* **Frameworks & Libraries:** Django, Node.js, TensorFlow, NumPy [4]
+* **Core Competencies:** Media & Video Processing (FFmpeg/MoviePy), Automation Scripts, Telegram Bot Development, AI API Integration, Web Scraping [4]
+* **Tools & OS:** Git, GitHub, Linux, REST APIs [4]
+* **Languages spoken:** Czech (B2 - business/professional), English (B2 - technical), Ukrainian & Russian (Native) [3]
 
 ---
 
 ### 🌟 Featured Projects
 
-#### 🎥 [NEW] AI-Powered Video Automation & Editing Suite
-*A collection of scripts and a fully functional Telegram Bot designed to automate short-form video creation [1, 2].*
+#### 🎮 Wolfsheep.fun — Multiplayer Strategy Game (Main Project)
+*An online multiplayer game inspired by classic strategic board games.* [1]
 * **Core Features:** 
-  * Auto-downloads videos from multiple sources [1].
-  * Generates accurate subtitles using speech-to-text models (Whisper) [1].
-  * Detects and extracts engaging parts of videos using custom heuristic methods [1].
-  * Generates stylized, highly-engaging subtitles and auto-crops videos to 9:16 format (ready for YouTube Shorts & TikTok) [1].
-* **Technologies:** Python, AI APIs, Speech-to-Text, FFmpeg/Media Automation [1, 2].
-* *🔗 [Link to Repository](https://github.com/Shutak0/video-editor-bot-or-script-name) <!-- Замени на точную ссылку на твой репозиторий -->*
+  * Real-time player communication and interactive gameplay [5].
+  * Full-stack development: designed and implemented both client-side and server-side components [1, 5].
+* **Technologies:** JavaScript, HTML/CSS, Node.js [4].
+* *🔗 [Live Demo](https://wolfsheep.fun/) | 💻 [GitHub Repository](https://github.com/Shutak0/wolfsheep)* [1]
 
-#### 🎮 Wolfsheep.fun — Multiplayer Strategy Game
-*An online multiplayer game inspired by classic strategic board games [5].*
+#### 🎥 Shorts-bot — AI-Powered Video Automation
+*A Python-based Telegram bot and automation script designed to streamline short-form video creation.* [5]
 * **Core Features:** 
-  * Real-time player communication and interactive gameplay [1].
-  * Full-stack development: designed both client-side and server-side components [1].
-* **Technologies:** JavaScript, HTML/CSS, Node.js / WebSockets [2, 5].
-* *🔗 [Link to Repository](https://github.com/Shutak0/wolfsheep) [5]*
+  * Automates downloading of videos from various sources [5].
+  * Generates accurate subtitles using speech-to-text models [5].
+  * Uses heuristic methods to detect and extract the most engaging parts of videos [5].
+  * Automatically crops video to 9:16 vertical format and adds stylized, high-engagement subtitles [5].
+* **Technologies:** Python, AI APIs, Speech-to-Text, FFmpeg/Media Processing [4].
+* *🔗 [GitHub Repository](https://github.com/Shutak0/shorts-bot)*
 
-#### 📈 Financial Time-Series Forecasting (ML)
-*A Machine Learning project focused on financial data processing and time-series forecasting [1, 2].*
+#### 📈 Viralytics — Financial Time-Series Analytics (ML)
+*A Machine Learning project focused on financial data processing and predictive analytics.* [5]
 * **Core Features:** 
-  * Custom dataset gathering and preprocessing pipelines [1].
-  * Explored and trained time-series models using TensorFlow [2].
-  * Validated model performance against historical data [2].
-* **Technologies:** Python, TensorFlow, NumPy [2].
-* *🔗 [Link to Repository](https://github.com/Shutak0/financial-ml) <!-- Замени на точную ссылку на твой репозиторий -->*
+  * Automated pipelines for custom dataset gathering and preparation [5].
+  * Built and trained time-series forecasting models using TensorFlow [4].
+  * Evaluated and tested model performance against historical financial data [4].
+* **Technologies:** Python, TensorFlow, NumPy, APIs [4].
+* *🔗 [GitHub Repository](https://github.com/Shutak0/viralytics)*
 
 ---
 
 ### 💼 Commercial & Freelance Experience (OSVČ)
 
-* **AI Chatbot Integration for Odoo Platform (2026)** [5]
-  * Successfully integrated and customized an AI-driven chatbot for a corporate website running on the Odoo CMS [5].
-  * Tailored chatbot behavior, persona, and system prompts to meet client specifications [5].
-  * Managed full cycle testing and deployment within the production web environment [5].
-  * **Technologies:** Python, AI API integrations, JavaScript [2, 5].
+* **AI Chatbot Integration for Odoo Platform (OSVČ | 2026)** [1]
+  * Integrated and customized an AI chatbot for a corporate website running on the Odoo CMS [1].
+  * Designed and tailored system prompts, behavioral guidelines, and bot persona according to customer needs [1].
+  * Performed rigorous testing and debugging of the integration within the live environment [1].
+  * **Technologies:** Python, AI APIs, JavaScript [4].
 
 ---
 
 ### 📫 Connect with me:
-* **Email:** [shutakswm@gmail.com](mailto:shutakswm@gmail.com) [4]
-* **LinkedIn:** [linkedin.com/in/viktor-lobashev-46332941a](https://linkedin.com/in/viktor-lobashev-46332941a) [4]
-* **Location:** Chýně (Prague-West), Czech Republic [4]
+* **Email:** [shutakswm@gmail.com](mailto:shutakswm@gmail.com) [2]
+* **LinkedIn:** [linkedin.com/in/viktor-lobashev-46332941a](https://linkedin.com/in/viktor-lobashev-46332941a) [2]
+* **Location:** Chýně (Prague-West), Czech Republic [2]
